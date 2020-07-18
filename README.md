@@ -8,6 +8,9 @@ git add <file name>
 #to commit into local repo
 git commit -m "commit message"
 
+#push changes
+git remote add origin remote repository URL
+
 #To share files to remote repo 
 git push origin master 
 
